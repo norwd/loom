@@ -2,7 +2,7 @@
 
 Loom is a [Literate Programming] tool that can tangle machine code and weave documentation.
 
-<img src="https://humanmademark.com/automatic-logo.svg" height="50" />
+<img src="/../../../../norwd/human/blob/main/docs/automatic-logo.svg" height="50" />
 
 ## What is Literate Programming?
 
